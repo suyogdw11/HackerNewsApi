@@ -12,7 +12,8 @@ Please install the below NugetPackages to ensure the successful build.
   **Note:** Here I have used Refit to call the external HackerNewsAPI Endpoints.
 
   **Some conceptual points for Refit**
-    1. Refit is an automatic type-safe REST library for .NET.
+  
+  1. Refit is an automatic type-safe REST library for .NET.
   2. Refit turns a REST API into a live interface.
   3. Refit reduces the amount of code required to call APIs by eliminating the need to manually construct HTTP requests and handle responses.
   4. It provides automatic serialization and deserialization of data.
